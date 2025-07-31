@@ -18,19 +18,30 @@ Gerekli paketleri yüklemek için:
 linux terminalde:
 
 sudo apt update
+
 sudo apt install python3 whois nmap -y
+
 pip3 install -r requirements.txt
 
 Alternatif olarak sanal ortam:
+
 python3 -m venv venv
+
 source venv/bin/activate
+
 pip install -r requirements.txt(Önerilen Kurulum)
 
+
 Kullanım:
+
 Linux Terminale
+
 python3 recontool.py yazınız
+
 Komut çalıştırıldığında sizden hedef domain istenecektir. Örnek çıktı: Hedef domain: example.com
+
 Kodu çalıştırdıktan sonra örnek çıktı: [+] IP Adresi: 93.184.216.34
+
 [+] WHOIS bilgileri: ...
 [+] Subdomain brute force: ...
 [+] DNS Kayıtları: ...
