@@ -1,0 +1,39 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+ENV/
+env/
+*.sqlite3
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# VSCode config
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output files
+*.out
+*.bak
+*.swp
+
+# Secrets or sensitive config
+*.pem
+*.key
+*.crt
