@@ -2,6 +2,10 @@
 
 **ReconX**, Kali Linux üzerinde Python ile geliştirilmiş, hedef bir domain hakkında bilgi toplayan basit ve etkili bir bilgi toplama (reconnaissance) aracıdır.
 
+
+!!!!!! Bu araç sadece eğitim ve etik siber güvenlik çalışmaları için tasarlanmıştır.
+       Yalnızca izinli testlerde kullanınız. İzinsiz testler yasal değildir ve etik dışıdır.
+
 ## Özellikler
 
 - 🌐 Domain IP adresini öğrenme  
@@ -48,7 +52,6 @@ Kodu çalıştırdıktan sonra örnek çıktı: [+] IP Adresi: 93.184.216.34
 [+] IP Konum Bilgisi: ...
 [+] Port Tarama: ...
 
-!!! Bu araç sadece eğitim ve etik siber güvenlik çalışmaları için tasarlanmıştır.
-    Yalnızca izinli testlerde kullanınız. İzinsiz testler yasal değildir ve etik dışıdır.
+
 
     Geliştirici:Burak Erdemci
